@@ -18,3 +18,8 @@ body{
     background-size: cover;
     flex-shrink: 0; 
 }
+
+.logoContainer{
+    width: 100%;
+    background: rgba(45, 52, 54,.5);
+}
