@@ -29,4 +29,5 @@ body{
 .companyName{
     color: white;
     font-family: 'Ultra', serif;
+    letter-spacing: .2rem;
 }
