@@ -40,3 +40,7 @@ body{
 .logo{
     height: 20vh;
 }
+
+.right{
+    padding: 4rem;
+}
