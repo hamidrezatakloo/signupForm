@@ -70,3 +70,7 @@ body{
 .inputs>div{
     width:50%;
 }
+
+input{
+    width: 50%;
+}
