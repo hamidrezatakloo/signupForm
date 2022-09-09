@@ -94,3 +94,7 @@ input{
     margin: 2rem 4rem;
     cursor: pointer;
 }
+
+label{
+    font-weight: bold;
+}
