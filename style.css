@@ -61,6 +61,7 @@ body{
     padding: 2rem 0;
 }
 .inputs{
+    position: relative;
     border: none;
     background-color: #fafafa;
     padding: 2rem 4rem;
@@ -97,4 +98,10 @@ input{
 
 label{
     font-weight: bold;
+}
+
+legend{
+    position: absolute;
+    top: 1rem;
+    font-size: 1.5rem;
 }
