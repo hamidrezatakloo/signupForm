@@ -52,6 +52,10 @@ body{
     width: 70%;
 }
 
+.header1{
+    padding-top: 10rem;
+}
+
 .form{
     background-color: #fafafa;
 }
