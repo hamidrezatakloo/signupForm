@@ -47,24 +47,24 @@ body{
 }
 
 .header1,.header2{
-    padding: 0 4rem;
+    padding: 0 4vw;
     font-size: 2rem;
     font-weight: normal;
     width: 70%;
 }
 
 .header1{
-    padding-top: 10rem;
+    padding-top: 10vh;
 }
 
 .form{
-    padding: 2rem 0;
+    padding: 2vh 0;
 }
 .inputs{
     position: relative;
     border: none;
     background-color: #fafafa;
-    padding: 2rem 4rem;
+    padding: 6vh 4vw;
     display: flex;
     flex-wrap: wrap;
     box-shadow: 0 8px 10px 0 rgba(0,0,0,.4);
@@ -92,7 +92,7 @@ input{
     font-weight: bold;
     font-size: 1.2rem;
     border-radius: 5px;
-    margin: 2rem 4rem;
+    margin: 4vh 4vw;
     cursor: pointer;
 }
 
