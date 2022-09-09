@@ -66,3 +66,7 @@ body{
     display: flex;
     flex-wrap: wrap;
 }
+
+.inputs>div{
+    width:50%;
+}
