@@ -49,6 +49,7 @@ body{
 .header1,.header2{
     padding: 0 4rem;
     font-size: 2rem;
+    font-weight: normal;
     width: 70%;
 }
 
