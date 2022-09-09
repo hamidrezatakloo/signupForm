@@ -98,6 +98,7 @@ input{
 
 label{
     font-weight: bold;
+    font-size: 1.2rem;
 }
 
 legend{
@@ -109,6 +110,7 @@ legend{
 
 .loginLink{
     font-size: 1.5rem;
+    padding: 0 4vw;
 }
 .loginLink a{
     text-decoration: none;
