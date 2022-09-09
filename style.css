@@ -110,3 +110,7 @@ legend{
 .loginLink{
     font-size: 1.5rem;
 }
+.loginLink a{
+    text-decoration: none;
+    color: green;
+}
